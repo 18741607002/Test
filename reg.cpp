@@ -10,5 +10,5 @@ Reg::Reg(QWidget *parent) :
 
 Reg::~Reg()
 {
-    delete ui;
+  
 }
